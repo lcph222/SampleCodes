@@ -1,0 +1,1 @@
+These are some of the codes that I wrote for Rna-Seq analysises. I generally try to make the codes run fast and memory efficient. These are codes written by myselft and only used by me and my co-worker. I generally provides bash scritps when sharing. 

@@ -1,0 +1,1 @@
+I've only included some files that I wrote in this folder. The purpose is to show how I code in php, html, and javascript. My style will change over time.  
